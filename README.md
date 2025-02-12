@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Sammy, I'm a 16 year old developer<br>🧑‍💻 Im currently working on my travel agency VoyagePal<br>➕ My favorite languages are c++ and javacsript<br>❣️ I'm most proud of my markup language I made from scratch
+👋 My name is Chera, I'm a 16 year old developer<br>🧑‍💻
 
 
 ## 🌐 Socials:
